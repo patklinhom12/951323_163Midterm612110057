@@ -6,24 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SplashScene.unity
+    path: Assets/_Scenes/SplashScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/_Scenes/MainMenu.unity
     guid: 1ba1a00fcd4f1144188b58dae454edea
   - enabled: 1
-    path: Assets/Scenes/StageSelection.unity
+    path: Assets/_Scenes/StageSelection.unity
     guid: 70512dda0a1841d439faf26fcf8e7ad1
   - enabled: 1
-    path: Assets/Scenes/Stage1.unity
+    path: Assets/_Scenes/Stage1.unity
     guid: f254aea454dc04e46b49447a9ea4bcbd
   - enabled: 1
-    path: Assets/Scenes/Stage2.unity
+    path: Assets/_Scenes/Stage2.unity
     guid: aae14a82ede2b8444ab53bb605774482
   - enabled: 1
-    path: Assets/Scenes/Option.unity
+    path: Assets/_Scenes/Option.unity
     guid: 6b13e499cd659a74cb79b908f4137977
   - enabled: 1
-    path: Assets/Scenes/Credit.unity
+    path: Assets/_Scenes/Credit.unity
     guid: d60be9a1dcf992c44a113ef0de10497c
   m_configObjects: {}
