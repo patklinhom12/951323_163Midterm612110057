@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public class TimerSystem : MonoBehaviour
 {
-    public float timeStart = 60;
+    public static float timeStart = 120;
     public Text Textbox;
     // Start is called before the first frame update
     void Start()
